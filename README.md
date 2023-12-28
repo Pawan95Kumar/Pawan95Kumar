@@ -4,17 +4,17 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan95kumar&label=Profile%20views&color=0e75b6&style=flat" alt="pawan95kumar" /> </p>
 
-- 🔭 I’m currently working on Project **Fullstack Projects**
+- 🔭 I’m currently working on **Fullstack Projects**
 
 - 🌱 I’m currently learning **Nextjs,TypeScript**
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
-- 🤝 I’m looking for help with **Working Startups and other companies**
+- 🤝 I’m looking for help with **Working Startups and others**
 
 - 👨‍💻 My projects are available at [https://portfolio-pawankumar.netlify.app/](https://portfolio-pawankumar.netlify.app/)
 
-- 💬 Ask about **JavaScript, React, Nextjs, Node.js, express.js, MongoDB**
+- 💬 Ask about **JavaScript, React, Nextjs, Node.js, express.js**
 
 - 📫 How to reach me **pawannirwan95@gmail.com**
 
