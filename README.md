@@ -12,13 +12,13 @@
 
 - 🤝 I’m looking for help with **Working Startups and other companies**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-pawankumar.netlify.app/](https://portfolio-pawankumar.netlify.app/)
+- 👨‍💻 My projects are available at [https://portfolio-pawankumar.netlify.app/](https://portfolio-pawankumar.netlify.app/)
 
-- 💬 Ask me about **JavaScript, React, Nextjs, Node.js, express.js, MongoDB**
+- 💬 Ask about **JavaScript, React, Nextjs, Node.js, express.js, MongoDB**
 
 - 📫 How to reach me **pawannirwan95@gmail.com**
 
-- ⚡ Fun fact **⚡ I'm a space enthusiast as well. We can exchange our theories on the creation of the universe.**
+- ⚡ Fun fact **I'm a space enthusiast as well. We can exchange our theories on the creation of the universe.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
