@@ -1,4 +1,3 @@
-![MasterHead](https://wallpapercave.com/wp/wp12007933.png)
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
 <h4 align="center">A passionate learner pursuing MERN Stack development. Hands-on experience in React through several projects. Though my major was English literature, my passion for web development pulled me towards the field. Dedicated to learning and applying new technologies to build innovative and user-friendly applications.</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
